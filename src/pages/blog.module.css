@@ -1,0 +1,11 @@
+.blog {
+    background: rgb(149, 238, 149);
+}
+
+.blog p{
+    color: blue;
+}
+
+.text{
+    text-transform: capitalize;
+}
